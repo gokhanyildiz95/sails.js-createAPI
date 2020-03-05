@@ -1,3 +1,8 @@
+
+1. npm install
+2. nodemon start
+3. add client and connection view ;)
+
 # clientapi
 
 a [Sails v1](https://sailsjs.com) application
